@@ -51,7 +51,7 @@ Microsoft, Google, and Meta are releasing smaller
 models (many easily accessible through                <==== Another major rewite by Gemini
 Ollama). However, be aware that more capable
 models often come with stricter licenses. This
-isn't surprising, given the massive investments        <-- The word massive here is correct
+isn't surprising, given the massive investments        <== The word massive here is correct
 required to train them. Always read the fine print         but *my* original bias was a bit
 to understand the terms of use.                            different... It's in git to see.
 
@@ -103,7 +103,7 @@ Here is a feature request to that team for integrating
 │                                                   │
 │                                                   │
 │                                                   │
-│                                               ALL │    <-- this is what's "new" just a button.
+│                                               ALL │    <== this is what's "new" just a button.
 └───────────────────────────────────────────────────┘        not sure what the UI should look like
                                                              and of course a better name is possible
                                                              (browse?, search?, ...)
@@ -116,15 +116,15 @@ Here is a feature request to that team for integrating
 ┌─[2]─Files──────────Worktrees───────────Submodules─┐
 │                                                   │
 │ ▼src                                              │|
-│ M lexer.c                                         │|   <-- standard lazygit scroll-bars
+│ M lexer.c                                         │|   <== standard lazygit scroll-bars
 │   _clang-format                                   │
 │   compiler-errors.c                               │
 │   debug-printer.c                                 │
 ├───────────────────────────────────────────────────┤
-│ <fuzzy-filter>                              [ x ] │    <- <fuzzy-filter> should be grey
-└───────────────────────────────────────────────────┘       like the fzf tool since no filter
-                                                            is being used. cancel button can be
-                                                            prettier I'm sure or more descriptive
+│ <fuzzy-filter>                              [ x ] │    <== <fuzzy-filter> should be grey
+└───────────────────────────────────────────────────┘        like the fzf tool since no filter
+                                                             is being used. cancel button can be
+                                                             prettier I'm sure or more descriptive
 
                   * All Files View After Filtering  *
                   -----------------------------------
@@ -132,12 +132,12 @@ Here is a feature request to that team for integrating
 ┌─[2]─Files──────────Worktrees───────────Submodules─┐
 │                                                   │
 │ ▼src                                              │
-│ M lexer.c                                         │    <-- no scroll-bars because only
+│ M lexer.c                                         │    <== no scroll-bars because only
 │   debug-printer.c                                 │        one file matches
 │                                                   │
 │                                                   │
 ├───────────────────────────────────────────────────┤
-│ d                                           [ x ] │    <-- the d should not be in grey like
+│ d                                           [ x ] │    <== the d should not be in grey like
 └───────────────────────────────────────────────────┘        the <fuzzy-filter> prompt
 
 At this point, clicking on debug-printer.c file
