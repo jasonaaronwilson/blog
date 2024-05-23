@@ -44,17 +44,16 @@ cloud services (which, for the record, are way
 faster than anything a hobbyist could                 <====
 realistically run).                                   <====
 
-You don't necessarily need the beefiest computer      
-to run these models (if you don't need instant        <----
-"answers") and it's cool that big guns like           <----
-Microsoft, Google, FaceBook, etc. are making their
-smaller models available (many trivial to use via       I think I can use a Gemini treatment
-ollama) though they come with increasingly more         of this paragraph as well.
-restrictive licenses the better they actually
-get. I'm not shocked. They are spending millions      <----
-of dollars to train these things so I'm not           <----
-surprised there are strings attached. Read the
-fine print.
+You don't necessarily need top-of-the-line
+hardware to run these models (especially if you're
+patient), and it's great that industry giants like
+Microsoft, Google, and Meta are releasing smaller
+models (many easily accessible through                <==== Another major rewite by Gemini
+Ollama). However, be aware that more capable
+models often come with stricter licenses. This
+isn't surprising, given the massive investments        <-- The word massive here is correct
+required to train them. Always read the fine print         but *my* original bias was a bit
+to understand the terms of use.                            different... It's in git to see.
 
 My favorite model that fits within my CPU RAM (not
 VRAM, GPUs are insanely expensive and "gaming" CPU
