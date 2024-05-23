@@ -1,6 +1,10 @@
 #  404: Idea Not Found
 
-Some public thoughts mostly about technology especially software development and AI (assuming there is a difference anymore).
+```
+Some public thoughts mostly about technology especially
+software development and AI (assuming there is a difference
+anymore).
+```
 
 
 
