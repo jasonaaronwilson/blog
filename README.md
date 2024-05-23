@@ -6,7 +6,8 @@
 <br>
 
 > 2024-05-23 - ollama
-> 
+>
+
 ```
 AI is moving fast both in both the "proprietary"
 commercial space as well as a sligtly more "open"
@@ -78,8 +79,10 @@ file that makes this easy.)
 ```
 
 <br>
+
 > 2024-05-23 - lazygit
 > 
+
 ```
 I've only recently started using lazygit. Since
 I'm an emacs user, you'd think I'd just use magit
@@ -161,3 +164,10 @@ walls of text you could get by doing git log...")
 -----
 
 Copyright © 2024 Jason A. Wilson. All Rights Reserved.
+
+(We are in nebulous territory here of course. Some
+content is AI generated based on my original
+thoughts. Technically machine generated content
+isn't subject to copyright until SCOTUS does a
+180...) You'd be kind of a crappy person to pass
+off text I wrote as your own.
