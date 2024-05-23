@@ -2,6 +2,10 @@
 
 ## Thoughts about technology (especially software development and AI -- assuming there is a difference anymore).
 
+<br>
+<br>
+<br>
+
 > 2024-05-23 - lazygit
 > 
 ```
