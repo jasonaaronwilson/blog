@@ -30,19 +30,19 @@ and has a nice library of models though a subset
 of what's available on "hugging face" (I guess a
 reference to Aliens?).
 
-Side note: there is also a very cool Mozilla          
-project that has a single file binary that runs on    <----
-six diffrent operating systems and gives you          <----
-llama2 though ollama is just about as easy to
-install and has way more models, etc. So while I      
-love the cosmopolitan project and hope to utilize       This is the orignal version.       
-this cool stuff for things in the furure (I'm a         I'm going to use Gemini's version
-linux guy...), ollama seems to be much better           after checking it in... (We already
-right now IMHO for tinkering around with these          did some revisions together...)
-models indepent of more aligned models like
-Gemini, chatgpt.com or any cloud based solution       <----
-which will be *way* faster than what a hobbyist       <----
-can afford.                                           
+It's worth noting that Mozilla also offers a
+single-file binary that runs Llama 2 on six
+different operating systems. While intriguing for
+its portability, Ollama currently surpasses it in    <====
+terms of model variety and ease of use. As a Linux   <====
+enthusiast, I'm keen to explore Mozilla's              
+"Cosmopolitan Libc" for future projects, but for       This is how Gemini rewrote my text.
+now, Ollama remains my top choice for                    + I'm using github so you can see
+experimenting with LLMs independent of the more          + what I wrote first since it's
+curated, aligned models offered by commercial            + in the git history...
+cloud services (which, for the record, are way
+faster than anything a hobbyist could                 <====
+realistically run).                                   <====
 
 You don't necessarily need the beefiest computer      
 to run these models (if you don't need instant        <----
