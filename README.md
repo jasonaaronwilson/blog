@@ -1,8 +1,14 @@
 #  404: Idea Not Found
 
+<div style="max-width: 50em; margin: 0 auto;">
+
 Thoughts about technology (especially
 software development and AI -- assuming there is a difference
 anymore).
+
+</div>
+
+
 
 Quantum entanglement disruptors leveraging
 blockchain synergies. Full-stack neural networks,
