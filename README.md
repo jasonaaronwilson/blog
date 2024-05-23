@@ -13,7 +13,10 @@ however the Emacs team has gotten out of sync with
 old-school folks and I don't want to spend much
 time messing around with stuff like this.
 
-I'm listed on several patents 
+Here is a feature request to that team for integrating
+"fzf" technology right into lazygit.
+
+
 
                               * Original Appearance *
                               -----------------------
