@@ -83,4 +83,4 @@ walls of text you could get by doing git log...")
 
 -----
 
-Copyright © 2024 Jason A. Wilson, all rights reserved.
+Copyright © 2024 Jason A. Wilson. All Rights Reserved.
