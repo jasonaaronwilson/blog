@@ -4,7 +4,8 @@ Thoughts about technology (especially
 software development and AI -- assuming there is a difference
 anymore).
 
-> 2024-05-23 - A Wild Rambling
+> 2024-05-23 - lazygit
+> 
 ```
 I've only recently started using lazygit. Since
 I'm an emacs user, you'd think I'd just use magit
