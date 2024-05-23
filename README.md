@@ -1,8 +1,6 @@
 #  404: Idea Not Found
 
-Thoughts about technology (especially
-software development and AI -- assuming there is a difference
-anymore).
+## Thoughts about technology (especially software development and AI -- assuming there is a difference anymore).
 
 > 2024-05-23 - lazygit
 > 
